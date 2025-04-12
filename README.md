@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme3411&layout=compact&hide_border=true&title_color=8403fc&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme3411&bg_color=000000&color=8403fc&line=8403fc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme3411&bg_color=000000&color=8403fc&line=8403fc&point=ffffff&area=true&hide_border=true)](https://github.com/Guilherme3411/github-readme-activity-graph)
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-linguagem_C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
