@@ -1,30 +1,74 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8403fc&height=120&section=header"/>
+<!-- HEADER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Guilherme+Cavalet;I+Study+Computer+Science+At+UFJ-GO;I+live+in+Jatai+Goiás;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=c0caf5&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Guilherme+Cavalet;Computer+Science+Student;Backend+Developer+in+Progress;Welcome!+🚀"/>
+</p>
+
+---
+
+## About Me
+-   Computer Science student (UFJ-GO)
+-   Jataí - GO, Brazil
+-   Focused on Backend & Databases
+-   Looking for opportunities
+
+---
+
+## Stats
+<p align="">
+  <img height="180em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme3411&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&border_color=7aa2f7&hide_border=true"/>
+
+  <img height="180em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme3411&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&border_color=7aa2f7&hide_border=true"/>
+</p>
 
 
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme3411&bg_color=000000&color=8403fc&line=8403fc&point=ffffff&area=true&hide_border=true)](https://github.com/Guilherme3411/github-readme-activity-graph)
+## Competências
+-  Lógica de programação e resolução de problemas  
+-  Estruturas de Dados (filas, listas, recursão)  
+-  Programação em C (ponteiros, structs, alocação dinâmica)  
+-  Desenvolvimento em Java (POO e projetos práticos)  
+-  Banco de Dados (modelagem e SQL)  
+-  Organização de código e modularização  
+-  Aprendizado contínuo em backend  
 
-### Main skills:
-![C](https://img.shields.io/badge/-linguagem_C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117&textColor=0D1117)&nbsp;
-![icons8-java (1)](https://github.com/user-attachments/assets/c1afa2b4-07bc-4959-8b0a-04edd1871f0f)
-![java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
 
-### Tools:
-![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-0D1117?style=for-the-badge&logo=CodeBlocks&logoColor=ffffff&labelColor=0D1117)&nbsp;
-![Clion](https://img.shields.io/badge/-Clion-0D1117?style=for-the-badge&logo=clion&logoColor=ffffff&labelColor=0D1117)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-0D1117?style=for-the-badge&logo=intellijidea&logoColor=ffffff&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117)&nbsp;
+## Main Skills
+  <img src="https://skillicons.dev/icons?i=c,java,mysql&theme=dark" />
 
-### Other Knowledge:
-![Canva](https://img.shields.io/badge/-Canva-0D1117?style=for-the-badge&logo=canva&logoColor=ffffff&labelColor=0D1117)&nbsp;
-![Aseprite](https://img.shields.io/badge/-Aseprite-0D1117?style=for-the-badge&logo=aseprite&logoColor=ffffff&labelColor=0D1117)&nbsp;
+---
 
-### Studying in this moment:
-![GameMaker](https://img.shields.io/badge/-GameMaker-0D1117?style=for-the-badge&logo=gamemaker&logoColor=ffffff&labelColor=0D1117)&nbsp;
-![icons8-java (1)](https://github.com/user-attachments/assets/c1afa2b4-07bc-4959-8b0a-04edd1871f0f)
-![java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
+## Tools
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8403fc&height=120&section=footer"/>
+---
 
+## Currently Studying
+  <img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
+
+---
+
+## Design Tools
+  <p>
+    <a href="https://www.aseprite.org/" target="_blank">
+      <img height="48" style="vertical-align: middle;" src="https://cdn.simpleicons.org/aseprite" />
+    </a>
+  <img width="8"/>
+      <a href="https://www.canva.com/">
+        <img height="48" style="vertical-align: middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+      </a>
+  </p>
+
+---
+<!-- FOOTER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer"/>
+</p>
