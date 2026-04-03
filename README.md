@@ -19,13 +19,9 @@
 ---
 
 ## 📊 Stats
-<p>
+<p align="center">
   <img height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme3411&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&hide_border=true"/>
-
-  <img height="180em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Guilherme3411&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&hide_border=true"/>
-</p>
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Guilherme3411&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&hide_border=true"/>
 
 ---
 
